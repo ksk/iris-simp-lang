@@ -6,6 +6,9 @@
 # auto-generated
 .coqdeps.d
 .Makefile.coq.d
+.CoqMakefile.d
+CoqMakefile
+CoqMakefile.conf
 Makefile.coq
 Makefile.coq.conf
 .lia.cache
